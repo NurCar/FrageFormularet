@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "sal",
+      "timestamp": "9/23/2023, 2:53:46 PM",
+      "points": {
+        "Kat": 36,
+        "Hund": 47,
+        "Kanin": 24,
+        "Fisk": 27
+      },
+      "percentages": {
+        "Kat": "26.87",
+        "Hund": "35.07",
+        "Kanin": "17.91",
+        "Fisk": "20.15"
+      }
+    },
+    {
+      "name": "kar",
+      "timestamp": "9/23/2023, 2:55:07 PM",
+      "points": {
+        "Kat": 36,
+        "Hund": 47,
+        "Kanin": 24,
+        "Fisk": 27
+      },
+      "percentages": {
+        "Kat": "26.87",
+        "Hund": "35.07",
+        "Kanin": "17.91",
+        "Fisk": "20.15"
+      }
+    },
+    {
+      "name": "7",
+      "timestamp": "9/23/2023, 2:58:22 PM",
+      "points": {
+        "Kat": 0,
+        "Hund": 0,
+        "Kanin": 0,
+        "Fisk": 0
+      },
+      "percentages": {
+        "Kat": "NaN",
+        "Hund": "NaN",
+        "Kanin": "NaN",
+        "Fisk": "NaN"
+      }
+    },
+    {
+      "name": "nur",
+      "timestamp": "10/4/2023, 2:25:10 PM",
+      "points": {
+        "Cat": 30,
+        "Dog": 20,
+        "Rabbit": 31,
+        "Fish": 39
+      },
+      "percentages": {
+        "Cat": "25.00",
+        "Dog": "16.67",
+        "Rabbit": "25.83",
+        "Fish": "32.50"
+      }
+    }
+  ]
+}

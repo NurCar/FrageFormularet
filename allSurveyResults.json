@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nur",
+    "timestamp": "10/4/2023, 2:25:10 PM",
+    "points": {
+      "Cat": 30,
+      "Dog": 20,
+      "Rabbit": 31,
+      "Fish": 39
+    },
+    "percentages": {
+      "Cat": "25.00",
+      "Dog": "16.67",
+      "Rabbit": "25.83",
+      "Fish": "32.50"
+    }
+  }
+]
