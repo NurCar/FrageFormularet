@@ -9,105 +9,105 @@ const results = []; //An empty array to store survey results
 //This property represents a nested object.This nested object contains "Yes" and "No".
 const questions = [
     {
-        question: '1.Do you like taking care of pets at home? (Yes/No)',
+        question: '1.Do you like taking care of pets at home?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 2, Fish: 1 },
             No: { Cat: 1, Dog: 0, Rabbit: 2, Fish: 4 }
         }
     },
     {
-        question: '2.Do you spend much time at home? (Yes/No)',
+        question: '2.Do you spend much time at home?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 2, Fish: 0 },
             No: { Cat: 1, Dog: 0, Rabbit: 2, Fish: 4 }
         }
     },
     {
-        question: '3.Do you have plants in your home? (Yes/No)',
+        question: '3.Do you have plants in your home?',
         answers: {
             Yes: { Cat: 2, Dog: 1, Rabbit: 1, Fish: 4 },
             No: { Cat: 4, Dog: 3, Rabbit: 2, Fish: 0 }
         }
     },
     {
-        question: '4.Is house cleaning important to you? (Yes/No)',
+        question: '4.Is house cleaning important to you?',
         answers: {
             Yes: { Cat: 2, Dog: 0, Rabbit: 1, Fish: 4 },
             No: { Cat: 2, Dog: 4, Rabbit: 3, Fish: 0 }
         }
     },
     {
-        question: '5.Do guests come to your house very often? (Yes/No)',
+        question: '5.Do guests come to your house very often?',
         answers: {
             Yes: { Cat: 2, Dog: 3, Rabbit: 2, Fish: 4 },
             No: { Cat: 2, Dog: 3, Rabbit: 2, Fish: 4 }
         }
     },
     {
-        question: '6.Do you travel often? (Yes/No)',
+        question: '6.Do you travel often?',
         answers: {
             Yes: { Cat: 1, Dog: 0, Rabbit: 2, Fish: 3 },
             No: { Cat: 3, Dog: 4, Rabbit: 2, Fish: 1 }
         }
     },
     {
-        question: '7.Do you want to contact with the pets so much? (Yes/No)',
+        question: '7.Do you want to contact with the pets so much?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 1, Fish: 0 },
             No: { Cat: 1, Dog: 0, Rabbit: 3, Fish: 4 }
         }
     },
     {
-        question: '8.Is your financial situation good to raise an animal? (Yes/No)',
+        question: '8.Is your financial situation good to raise an animal?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 2, Fish: 1 },
             No: { Cat: 1, Dog: 0, Rabbit: 1, Fish: 3 }
         }
     },
     {
-        question: '9.Do you own a big house? (Yes/No)',
+        question: '9.Do you own a big house?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 2, Fish: 0 },
             No: { Cat: 2, Dog: 1, Rabbit: 3, Fish: 1 }
         }
     },
     {
-        question: '10.Do you like to take responsibility? (Yes/No)',
+        question: '10.Do you like to take responsibility?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 2, Fish: 1 },
             No: { Cat: 1, Dog: 0, Rabbit: 2, Fish: 3 }
         }
     },
     {
-        question: '11.Do you have any previous pets care experience? (Yes/No)',
+        question: '11.Do you have any previous pets care experience?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 3, Fish: 1 },
             No: { Cat: 1, Dog: 0, Rabbit: 1, Fish: 3 }
         }
     },
     {
-        question: '12.Do you have a friend you can leave your pets? (Yes/No)',
+        question: '12.Do you have a friend you can leave your pets?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 2, Fish: 4 },
             No: { Cat: 0, Dog: 0, Rabbit: 1, Fish: 1 }
         }
     },
     {
-        question: '13.Do you live on a high floor? (Yes/No)',
+        question: '13.Do you live on a high floor?',
         answers: {
             Yes: { Cat: 0, Dog: 3, Rabbit: 1, Fish: 4 },
             No: { Cat: 4, Dog: 0, Rabbit: 3, Fish: 0 }
         }
     },
     {
-        question: '14.Do you like bonding with your pets? (Yes/No)',
+        question: '14.Do you like bonding with your pets?',
         answers: {
             Yes: { Cat: 3, Dog: 4, Rabbit: 1, Fish: 0 },
             No: { Cat: 1, Dog: 0, Rabbit: 3, Fish: 4 }
         }
     },
     {
-        question: '15.Do you go for walks regularly? (Yes/No)',
+        question: '15.Do you go for walks regularly?',
         answers: {
             Yes: { Cat: 1, Dog: 4, Rabbit: 0, Fish: 0 },
             No: { Cat: 3, Dog: 0, Rabbit: 4, Fish: 4 }

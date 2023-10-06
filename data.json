@@ -63,6 +63,38 @@
         "Rabbit": "25.83",
         "Fish": "32.50"
       }
+    },
+    {
+      "name": "nurra",
+      "timestamp": "10/6/2023, 8:09:46 AM",
+      "points": {
+        "Cat": 30,
+        "Dog": 32,
+        "Rabbit": 24,
+        "Fish": 24
+      },
+      "percentages": {
+        "Cat": "27.27",
+        "Dog": "29.09",
+        "Rabbit": "21.82",
+        "Fish": "21.82"
+      }
+    },
+    {
+      "name": "yak",
+      "timestamp": "10/6/2023, 8:14:31 AM",
+      "points": {
+        "Cat": 22,
+        "Dog": 23,
+        "Rabbit": 25,
+        "Fish": 41
+      },
+      "percentages": {
+        "Cat": "19.82",
+        "Dog": "20.72",
+        "Rabbit": "22.52",
+        "Fish": "36.94"
+      }
     }
   ]
 }
